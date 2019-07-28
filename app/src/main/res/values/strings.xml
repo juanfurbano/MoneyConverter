@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoneyConverterApp</string>
+    <string name="bconv">Convertir</string>
+</resources>
